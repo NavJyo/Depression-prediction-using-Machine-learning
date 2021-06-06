@@ -1,4 +1,4 @@
-Chronic Kidney Disease Prediction:
+Depression Prediction:
 
 Table of Content
 1. Demo
@@ -11,8 +11,8 @@ Table of Content
 
 Demo
 
-Link:
-https://depression26.herokuapp.com/
+Link: https://depression26.herokuapp.com/
+
 ![depress](https://user-images.githubusercontent.com/36689965/120915195-1b5c8200-c6c0-11eb-82f4-0d6900e97b35.JPG)
 
 
